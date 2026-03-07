@@ -1,16 +1,16 @@
-# cary-enviro-monitoring
-# Exploration and analysis of Cary Institute environmental monitoring program data
+## cary-enviro-monitoring
+## Exploration and analysis of Cary Institute environmental monitoring program data
 
-## Description
+### Description
 This project analyzes meteorological and maybe stream data (we'll see) collected by the Environmental Monitoring Program at Cary Institute.
 
-## Data Collection
+### Data Collection
 
-## Period: 
-## Site: 
-## Frequency: 
+### Period: 
+### Site: 
+### Frequency: 
 
-## File Organization
+### File Organization
 
 - raw_data/ Original CSV files
 - processed_data/ Cleaned CSV files
@@ -19,7 +19,7 @@ This project analyzes meteorological and maybe stream data (we'll see) collected
 - outputs/ Figures and reports
 - archive/ Legacy Data
 
-## Requirements
+### Requirements
 R 4.5+
 Packages: lubridate, tidyverse, ggplot2
 
