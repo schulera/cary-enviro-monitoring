@@ -1,4 +1,4 @@
-## Temperature and seasonal patterns at the Cary Institute: What's Changing?
+## Temperature and seasonal patterns at the Cary Institute: What's changing?
 
 ### Description
 This project analyzes meteorological data, primarily average, minimum and maximum temperature data, collected by the Environmental Monitoring Program at Cary Institute.
