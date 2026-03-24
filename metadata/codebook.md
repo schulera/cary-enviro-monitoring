@@ -1,5 +1,5 @@
 ### Codebook for data files
-##### For complete documentation and codebook for all variables, see: Kelly, Victoria (2020). Cary Environmental Monitoring Program Daily Meteorological and Solar Radiation Data: 1988-2025. Cary Institute. https://doi.org/10.25390/caryinstitute.11553219.v8.  
+##### For complete documentation and codebook for all variables, see: Kelly, Victoria (2025). Cary Environmental Monitoring Program Daily Meteorological and Solar Radiation Data: 1988-2025. Cary Institute. https://doi.org/10.25390/caryinstitute.11553219.  
 ##### Variables defined here are those retained for analysis.  For all files, missing value code = blank, and treated as NA.
 ##### Note that some new variables derived in processing, visualizing and modeling are not defined here.
 #### cary_met_data_daily.csv
