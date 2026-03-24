@@ -1,5 +1,5 @@
 #### Project title: Temperature and seasonal patterns at the Cary Institute: What's Changing?
-### Data processing notes
+### Data processing steps in order and relevant notes
 1. Import *clean_filtered_daily_data_eds.R* into RStudio or other platform compatible with R Programming Language, https://www.r-project.org/ 
 - Options:
   - use the data file *cary_met_data_daily.csv* supplied in this github repository's raw_data folder, which is the default (and preferred) file.  The dataset supplied with this project includes a modified version of the download (see below).  I manually added mean temperature (ave_temp), minimum temperature (min_temp), and and maximum temperature (max_temp) values from the National Centers for Environmental Information (NCEI) NOAA data portal for their weather station located adjacent to the Cary Institute weather station for dates 22 September, 2025 - end of year.  Refer to project README for reference.
