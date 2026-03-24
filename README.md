@@ -3,10 +3,17 @@
 ### Description
 This project analyzes meteorological data, primarily average, minimum and maximum temperature data, collected by the Environmental Monitoring Program at Cary Institute.  
 
-The 2,000 acre property at the Cary Institute of Ecosystem Studies is used for research, education, and public access. The grounds, waterways, trails and roads need to be safe and accessible for all uses. Warming temperatures and changing seasons impact all uses of this property.
+This project explores changing temperatures and seasonal patterns at the Cary Institute.  Who cares?
+- Property managers and operations crews, when planning work on trails, roads, bridges, buildings and other infrastructure
+- Researchers, students, and visitors, when siting field locations and timing their work
+- Educators and naturalists, who plan and coordinate outdoor programs
 
-### Data Collection
-Meteorological and solar radiation data are collected using a Campbell Scientific, Inc. datalogger (21X 1M 1987-14 September 1993, 21XL 14 September 1993- 12 October 1999, 23X 12 Oct. 1999-December 2011, CR3000 Dec. 2011-present). January 2024 – December 2025 temperature data from US CRN Millbrook site.
+### Key Findings of this project
+- Simple statistical extrapolation of 38 years of temperature data at Cary shows that temperatures are likely to rise ~.03° per year
+- Month-to-month differences in warming rate are suggestive but not statistically strong
+
+### Data and Data Collection
+Daily average, minimum, and maximum temperatures (° C), 1988-2025, collected at the Cary Institute weather station. These meteorological data are collected using a Campbell Scientific, Inc. datalogger (21X 1M 1987-14 September 1993, 21XL 14 September 1993- 12 October 1999, 23X 12 Oct. 1999-December 2011, CR3000 Dec. 2011-present). 
 
 ### Period
 1 January 1988 - 31 December 2025
