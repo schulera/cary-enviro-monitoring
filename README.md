@@ -1,15 +1,13 @@
 ## Temperature and seasonal patterns at the Cary Institute: What's changing?
 
 ### Description
-This project analyzes meteorological data, primarily average, minimum and maximum temperature data, collected by the Environmental Monitoring Program at Cary Institute.  
-
-This project explores changing temperatures and seasonal patterns at the Cary Institute.  Who cares?
+This project explores meteorological data; primarily average, minimum and maximum temperature data, collected by the Environmental Monitoring Program at Cary Institute.  Temperatures are rising and seasonal patterns are changing at the Cary Institute. Who cares?
 - Property managers and operations crews, when planning work on trails, roads, bridges, buildings and other infrastructure
 - Researchers, students, and visitors, when siting field locations and timing their work
 - Educators and naturalists, who plan and coordinate outdoor programs
-
+  
 ### Key Findings of this project
-- Simple statistical extrapolation of 38 years of temperature data at Cary shows that temperatures are likely to rise ~.03° per year
+- Simple statistical extrapolation of 38 years of temperature data at Cary shows that temperatures are likely to rise ~.03°C per year
 - Month-to-month differences in warming rate are suggestive but not statistically strong
 
 ### Data and Data Collection
