@@ -40,4 +40,4 @@ CC BY 4.0 for data - Please cite when using these data.
 Kelly, Victoria (2025). Cary Environmental Monitoring Program Daily Meteorological and Solar Radiation Data: 1988-2025. Cary Institute. https://doi.org/10.25390/caryinstitute.11553219 
 
 ### Additional notes regarding data provenance:
-Temperature data for 22 September 2025 - 31 December 2025 are from the US Climate Reference Network Millbrook site: https://www.ncei.noaa.gov/pub/data/uscrn/products/daily01/2025/ and were incorporated into the raw data file, cary_met_daily_data.csv. 
+Temperature data for 22 September 2025 - 31 December 2025 are from the US Climate Reference Network Millbrook site: https://www.ncei.noaa.gov/pub/data/uscrn/products/daily01/2025/ and were incorporated into the raw data file, cary_met_data_daily.csv. 
