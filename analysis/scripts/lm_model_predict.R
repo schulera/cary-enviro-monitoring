@@ -1,4 +1,4 @@
-# More retooling of data, and modeling, of Cary meteorological data. 
+# More retooling, and modeling, of Cary meteorological data. 
 # Written by A. Schuler, updated 03 24 2026.
 
 
